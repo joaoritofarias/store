@@ -1,0 +1,12 @@
+{
+    "name": "ivo/store-mvc_jwt",
+    "authors": [
+        {
+            "name": "Ivo",
+            "email": "just@ivo.fyi"
+        }
+    ],
+    "require": {
+        "rbdwllr/reallysimplejwt": "^3.1"
+    }
+}
